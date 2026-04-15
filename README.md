@@ -1,2 +1,2 @@
-# Report Card Generator
+# Employee Profile Generator
 
